@@ -1,0 +1,1 @@
+../bundle/vim-color-wombat/colors/wombat.vim

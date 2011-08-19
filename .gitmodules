@@ -16,3 +16,6 @@
 [submodule "bundle/vim-mikesimons"]
 	path = bundle/vim-mikesimons
 	url = git://github.com/mikesimons/vim-mikesimons.git
+[submodule "after/vim-mikesimons"]
+	path = after/vim-mikesimons
+	url = git://github.com/mikesimons/vim-mikesimons.git

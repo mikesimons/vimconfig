@@ -1,0 +1,1 @@
+../../bundle/vim-mikesimons/plugin/settings.vim
